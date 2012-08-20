@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="хлеб" preptime="5" cooktime="1,80">
+	<title>Простой хлеб</title>
+	<foo />
+	<asd />>
+	<foo/>
+	<!-- Это комментарий. -->
+	<<asdk />>
+	<>
+	
+</recipe>
